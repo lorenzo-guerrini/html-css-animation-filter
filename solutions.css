@@ -104,5 +104,19 @@
 }
 
 /*ES 11*/
+.ex-11-icon:hover {
+    animation: rotate270 3s linear infinite;
+}
+
+@keyframes rotate270 {
+    80% {
+        transform: rotate(270deg);
+    }
+
+    100% {
+        transform: rotate(0deg);
+    }
+}
+
 /*ES 12*/
 /*ES 13*/
