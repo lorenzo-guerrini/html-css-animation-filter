@@ -7,6 +7,14 @@
 }
 
 /*ES 2*/
+.ex-2-square {
+    transition: 3s;
+}
+
+.ex-2-square:active {
+    width: 100%;
+}
+
 /*ES 3*/
 /*ES 4*/
 /*ES 5*/
