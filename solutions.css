@@ -72,6 +72,14 @@
 }
 
 /*ES 8*/
+.ex-8-img {
+    transition: 3s;
+}
+
+.ex-8-img:hover {
+    filter: saturate(500%) hue-rotate(360deg);
+    border-radius: 25%;
+}
 /*ES 9*/
 /*ES 10*/
 /*ES 11*/
