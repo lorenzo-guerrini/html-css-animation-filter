@@ -58,6 +58,10 @@
 }
 
 /*ES 6*/
+.ex-6-img:hover {
+    filter: grayscale();
+}
+
 /*ES 7*/
 /*ES 8*/
 /*ES 9*/
