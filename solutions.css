@@ -32,7 +32,31 @@
 .ex-4-square:hover {
     opacity: 0;
 }
+
 /*ES 5*/
+.ex-5-square {
+    transition: 3s;
+}
+
+/*
+.ex-5-square:hover {
+    width: 100px;
+    height: 100px;
+}
+
+.ex-5-square:active {
+    width: 0px;
+    height: 0px;
+}
+*/
+
+.ex-5-square:hover {
+    transform: scale(2);
+}
+.ex-5-square:active {
+    transform: scale(0.1);
+}
+
 /*ES 6*/
 /*ES 7*/
 /*ES 8*/
