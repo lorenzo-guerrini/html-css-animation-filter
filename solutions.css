@@ -16,6 +16,13 @@
 }
 
 /*ES 3*/
+.ex-3-square {
+    transition: 3s;
+}
+
+.ex-3-square:hover {
+    border-radius: 50%;
+}
 /*ES 4*/
 /*ES 5*/
 /*ES 6*/
