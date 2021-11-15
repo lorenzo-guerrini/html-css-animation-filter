@@ -63,6 +63,14 @@
 }
 
 /*ES 7*/
+.ex-7-img {
+    transition: 3s;
+}
+
+.ex-7-img:hover {
+    filter: contrast(200%) blur(2rem);    
+}
+
 /*ES 8*/
 /*ES 9*/
 /*ES 10*/
