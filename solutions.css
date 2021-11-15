@@ -80,7 +80,18 @@
     filter: saturate(500%) hue-rotate(360deg);
     border-radius: 25%;
 }
+
 /*ES 9*/
+.ex-9-img {
+    transition: 3s;
+}
+
+.ex-9-img:hover {
+    filter: invert(100%) brightness(200%);
+    border-radius: 40%;
+    transform: scale(1.5);
+}
+
 /*ES 10*/
 /*ES 11*/
 /*ES 12*/
